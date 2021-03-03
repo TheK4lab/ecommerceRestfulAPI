@@ -1,7 +1,7 @@
 # ecommerceRestfulAPI
 An ecommerce restfulAPI. No front end. Built with Node.js and MongoDB
 
-Features:
+# Features:
 1.Authentication with JWT
 2.Protected Routes
 3.File Uploading
